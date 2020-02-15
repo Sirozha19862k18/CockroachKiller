@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KillTheStone:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KillTheStone_jar</output-path>
+    <root id="archive" name="KillTheStone.jar">
+      <element id="module-output" name="CockroachKiller" />
+    </root>
+  </artifact>
+</component>
